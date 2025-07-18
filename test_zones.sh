@@ -23,10 +23,10 @@ FILES=${WORK_DIR}zone/*
 
 # ADD NAMESERVERS!
 { echo "; TLD information"
-  echo "		IN	NS	ns11.opennic.glue."
-  echo "		IN	NS	ns2.opennic.glue."
-  echo "		IN	NS	ns6.opennic.glue."
-  echo "		IN	NS	ns8.opennic.glue."
+  echo "		IN	NS	ns1.afraid.org."
+  echo "		IN	NS	ns2.afraid.org."
+  echo "		IN	NS	ns3.afraid.org."
+  echo "		IN	NS	ns4.afraid.org."
   echo ";"
   echo "; Additional zones"
   echo ";"
